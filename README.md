@@ -1,16 +1,26 @@
-## Hi there 👋
+# Привет, я Hojiakbar! 👋
 
-<!--
-**HojiakbarMirzakarimov/HojiakbarMirzakarimov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Я **фронтенд-разработчик**, специализируюсь на создании быстрых и красивых интерфейсов. Работаю с современными технологиями, такими как **React**, **Tailwind CSS**, **Zustand**, и многими другими.
 
-Here are some ideas to get you started:
+## 💻 Мои навыки:
+- **Языки**: HTML5, CSS3, JavaScript (ES6+), JSX, TypeScript.
+- **Фреймворки**: React.js, Zustand, Next.js.
+- **Стилизация**: Tailwind CSS, SCSS, Bootstrap.
+- **Инструменты**: Git, GitHub, Figma, VS Code.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📚 Мои проекты:
+1. **Project 1**: Описание проекта.
+2. **Project 2**: Описание проекта.
+
+## 💬 Контакты:
+- 📱 Telegram: **@08hoji00**
+- 📞 WhatsApp: **+996 555 251 506**
+- 💻 GitHub: [HojiakbarMirzakarimov](https://github.com/HojiakbarMirzakarimov)
+- 🌍 Местоположение: Ош, Кыргызстан
+
+## 🌱 Чем я увлекаюсь:
+В свободное время занимаюсь **менторством**, обучаю новичков в области фронтенд-разработки и всегда стремлюсь улучшать свои навыки.
+
+---
+
+Спасибо, что заглянули! 😊
