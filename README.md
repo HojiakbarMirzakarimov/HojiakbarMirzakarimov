@@ -8,8 +8,14 @@
 - **Стилизация**: Tailwind CSS, SCSS, Bootstrap.
 - **Инструменты**: Git, GitHub, Figma, VS Code.
 
+## 🌐 Языки:
+- 🇺🇿 Узбекский — родной  
+- 🇷🇺 Русский — свободно  
+- 🇬🇧 Английский — A2 (читаю, пишу, изучаю)  
+- 🇰🇬 Киргизский — свободно
+
 ## 💬 Контакты:
-- 📱 Telegram: **@08hoji00**
+- 📱 Telegram: **[@08hoji00](https://t.me/08hoji00)**
 - 📞 WhatsApp: **+996 555 251 506**
 - 💻 GitHub: [HojiakbarMirzakarimov](https://github.com/HojiakbarMirzakarimov)
 - 🌍 Местоположение: Ош, Кыргызстан
@@ -19,4 +25,4 @@
 
 ---
 
-Спасибо, что заглянули! 😊
+**Спасибо, что заглянули! 😊**
