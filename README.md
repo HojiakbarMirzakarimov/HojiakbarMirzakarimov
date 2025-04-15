@@ -1,40 +1,30 @@
-# Привет, я Hojiakbar! 👋
+import React from 'react';
+import { FaHtml5, FaCss3Alt, FaJs, FaReact, FaSass, FaBootstrap, FaGithub, FaWhatsapp } from 'react-icons/fa';
 
-Я **фронтенд-разработчик**, специализируюсь на создании быстрых и красивых интерфейсов. Работаю с современными технологиями, такими как **React**, **Tailwind CSS**, **Zustand**, и многими другими.
+const Profile = () => {
+  return (
+    <div style={{ textAlign: 'center' }}>
+      <h1>Привет, я Hojiakbar! 👋</h1>
+      <p>Я **фронтенд-разработчик**, специализируюсь на создании быстрых и красивых интерфейсов. Работаю с современными технологиями, такими как **React**, **Tailwind CSS**, **Zustand**, и многими другими.</p>
+      <p><strong>Мои навыки:</strong></p>
+      <p>HTML5, CSS3, JavaScript (ES6+), JSX, TypeScript, React.js, Tailwind CSS, SCSS, Bootstrap</p>
+      <p><strong>Контакты:</strong></p>
+      <p>Telegram: @08hoji00, WhatsApp: +996 555 251 506</p>
+      
+      <div style={{ display: 'flex', justifyContent: 'center', gap: '20px' }}>
+        <FaHtml5 size={50} />
+        <FaCss3Alt size={50} />
+        <FaJs size={50} />
+        <FaReact size={50} />
+        <FaSass size={50} />
+        <FaBootstrap size={50} />
+        <FaGithub size={50} />
+        <a href="https://wa.me/996555251506" target="_blank" rel="noopener noreferrer">
+          <FaWhatsapp size={50} />
+        </a>
+      </div>
+    </div>
+  );
+};
 
-## 💻 Мои навыки:
-- **Языки**: HTML5, CSS3, JavaScript (ES6+), JSX, TypeScript.
-- **Фреймворки**: React.js, Zustand, Next.js.
-- **Стилизация**: Tailwind CSS, SCSS, Bootstrap.
-- **Инструменты**: Git, GitHub, Figma, VS Code.
-
-## 🌐 Языки:
-- 🇺🇿 Узбекский — родной  
-- 🇷🇺 Русский — свободно  
-- 🇬🇧 Английский — A2 (читаю, пишу, изучаю)  
-- 🇰🇬 Киргизский — свободно
-
-## 💬 Контакты:
-- 📱 Telegram: **[@08hoji00](https://t.me/08hoji00)**
-- 📞 WhatsApp: **[Нажми, чтобы написать](https://wa.me/996555251506)**
-- 💻 GitHub: [HojiakbarMirzakarimov](https://github.com/HojiakbarMirzakarimov)
-- 🌍 Местоположение: Ош, Кыргызстан
-
-## 🌱 Чем я увлекаюсь:
-В свободное время занимаюсь **менторством**, обучаю новичков в области фронтенд-разработки и всегда стремлюсь улучшать свои навыки.
-
----
-
-**Спасибо, что заглянули! 😊**
-
-<p align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/a/a2/HTML5_Logo_512.png" width="50" height="50" style="border-radius: 50%"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo.svg" width="50" height="50" style="border-radius: 50%"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" width="50" height="50" style="border-radius: 50%"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" width="50" height="50" style="border-radius: 50%"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/e/e6/Sass_Logo.svg" width="50" height="50" style="border-radius: 50%"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/4/47/Tailwind_CSS_Logo.svg" width="50" height="50" style="border-radius: 50%"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/4/47/Bootstrap_logo.svg" width="50" height="50" style="border-radius: 50%"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/e/ec/React_icons.svg" width="50" height="50" style="border-radius: 50%"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/d/d7/Material_Icons.svg" width="50" height="50" style="border-radius: 50%"/>
-</p>
+export default Profile;
