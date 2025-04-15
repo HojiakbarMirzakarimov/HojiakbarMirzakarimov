@@ -16,7 +16,7 @@
 
 ## 💬 Контакты:
 - 📱 Telegram: **[@08hoji00](https://t.me/08hoji00)**
-- 📞 WhatsApp: **+996 555 251 506**
+- 📞 WhatsApp: **[Нажми, чтобы написать](https://wa.me/996555251506)**
 - 💻 GitHub: [HojiakbarMirzakarimov](https://github.com/HojiakbarMirzakarimov)
 - 🌍 Местоположение: Ош, Кыргызстан
 
@@ -28,13 +28,13 @@
 **Спасибо, что заглянули! 😊**
 
 <p align="center">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" width="80" height="80"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" width="80" height="80"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" width="80" height="80"/>
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" width="80" height="80"/>
-  <img src="https://img.shields.io/badge/SCSS-CC6699?style=for-the-badge&logo=sass&logoColor=white" width="80" height="80"/>
-  <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" width="80" height="80"/>
-  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" width="80" height="80"/>
-  <img src="https://img.shields.io/badge/React_Icons-61DAFB?style=for-the-badge&logo=react&logoColor=black" width="80" height="80"/>
-  <img src="https://img.shields.io/badge/Material_UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white" width="80" height="80"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white&logoWidth=30&style=for-the-badge" width="80" height="80" style="border-radius: 50%"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white&logoWidth=30&style=for-the-badge" width="80" height="80" style="border-radius: 50%"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black&logoWidth=30&style=for-the-badge" width="80" height="80" style="border-radius: 50%"/>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black&logoWidth=30&style=for-the-badge" width="80" height="80" style="border-radius: 50%"/>
+  <img src="https://img.shields.io/badge/SCSS-CC6699?style=for-the-badge&logo=sass&logoColor=white&logoWidth=30&style=for-the-badge" width="80" height="80" style="border-radius: 50%"/>
+  <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white&logoWidth=30&style=for-the-badge" width="80" height="80" style="border-radius: 50%"/>
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white&logoWidth=30&style=for-the-badge" width="80" height="80" style="border-radius: 50%"/>
+  <img src="https://img.shields.io/badge/React_Icons-61DAFB?style=for-the-badge&logo=react&logoColor=black&logoWidth=30&style=for-the-badge" width="80" height="80" style="border-radius: 50%"/>
+  <img src="https://img.shields.io/badge/Material_UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white&logoWidth=30&style=for-the-badge" width="80" height="80" style="border-radius: 50%"/>
 </p>
