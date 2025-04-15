@@ -28,13 +28,13 @@
 **Спасибо, что заглянули! 😊**
 
 <p align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/a/a2/HTML5_Logo_512.png" width="80" height="80" style="border-radius: 50%"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo.svg" width="80" height="80" style="border-radius: 50%"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" width="80" height="80" style="border-radius: 50%"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" width="80" height="80" style="border-radius: 50%"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/e/e6/Sass_Logo.svg" width="80" height="80" style="border-radius: 50%"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/4/47/Tailwind_CSS_Logo.svg" width="80" height="80" style="border-radius: 50%"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/4/47/Bootstrap_logo.svg" width="80" height="80" style="border-radius: 50%"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/e/ec/React_icons.svg" width="80" height="80" style="border-radius: 50%"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/d/d7/Material_Icons.svg" width="80" height="80" style="border-radius: 50%"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/a/a2/HTML5_Logo_512.png" width="50" height="50" style="border-radius: 50%"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo.svg" width="50" height="50" style="border-radius: 50%"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" width="50" height="50" style="border-radius: 50%"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" width="50" height="50" style="border-radius: 50%"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/e/e6/Sass_Logo.svg" width="50" height="50" style="border-radius: 50%"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/4/47/Tailwind_CSS_Logo.svg" width="50" height="50" style="border-radius: 50%"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/4/47/Bootstrap_logo.svg" width="50" height="50" style="border-radius: 50%"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/e/ec/React_icons.svg" width="50" height="50" style="border-radius: 50%"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/d/d7/Material_Icons.svg" width="50" height="50" style="border-radius: 50%"/>
 </p>
