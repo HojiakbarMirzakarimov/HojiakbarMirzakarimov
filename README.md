@@ -28,13 +28,13 @@
 **Спасибо, что заглянули! 😊**
 
 <p align="center">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white" width="80" height="80" style="border-radius: 50%"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white" width="80" height="80" style="border-radius: 50%"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black" width="80" height="80" style="border-radius: 50%"/>
-  <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black" width="80" height="80" style="border-radius: 50%"/>
-  <img src="https://img.shields.io/badge/SCSS-CC6699?logo=sass&logoColor=white" width="80" height="80" style="border-radius: 50%"/>
-  <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?logo=tailwindcss&logoColor=white" width="80" height="80" style="border-radius: 50%"/>
-  <img src="https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=white" width="80" height="80" style="border-radius: 50%"/>
-  <img src="https://img.shields.io/badge/React_Icons-61DAFB?logo=react&logoColor=black" width="80" height="80" style="border-radius: 50%"/>
-  <img src="https://img.shields.io/badge/Material_UI-0081CB?logo=material-ui&logoColor=white" width="80" height="80" style="border-radius: 50%"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/a/a2/HTML5_Logo_512.png" width="80" height="80" style="border-radius: 50%"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo.svg" width="80" height="80" style="border-radius: 50%"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" width="80" height="80" style="border-radius: 50%"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" width="80" height="80" style="border-radius: 50%"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/e/e6/Sass_Logo.svg" width="80" height="80" style="border-radius: 50%"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/4/47/Tailwind_CSS_Logo.svg" width="80" height="80" style="border-radius: 50%"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/4/47/Bootstrap_logo.svg" width="80" height="80" style="border-radius: 50%"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/e/ec/React_icons.svg" width="80" height="80" style="border-radius: 50%"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/d/d7/Material_Icons.svg" width="80" height="80" style="border-radius: 50%"/>
 </p>
