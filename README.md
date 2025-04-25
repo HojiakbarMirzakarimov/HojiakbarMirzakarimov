@@ -30,7 +30,7 @@
 ## 📱 Социальные сети и Контакты
 
 <p>
-  <a href="https://wa.me/996553033741" target="_blank">
+  <a href="https://wa.me/996555251506" target="_blank">
   <img src="https://camo.githubusercontent.com/0ee66c3a88fcdfaad7c6fb00fc9d7be6af4feeac326d1a138de0da372c6b07d3/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f6d6573736167653d5768617473617070266c6f676f3d7768617473617070266c6162656c3d26636f6c6f723d323544333636266c6f676f436f6c6f723d7768697465266c6162656c436f6c6f723d267374796c653d666f722d7468652d6261646765" height="35" alt="whatsapp logo" data-canonical-src="https://img.shields.io/static/v1?message=Whatsapp&amp;logo=whatsapp&amp;label=&amp;color=25D366&amp;logoColor=white&amp;labelColor=&amp;style=for-the-badge" style="max-width: 100%;">
   </a>
 </p>
