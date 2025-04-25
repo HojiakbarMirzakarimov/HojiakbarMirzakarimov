@@ -29,13 +29,13 @@
 ## 📬 Контакты
 
 <p>
-  <a href="https://t.me/08hoji00" style="text-decoration: none; color: #0088cc; font-weight: bold; font-size: 16px;">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Telegram_logo_2019.svg/512px-Telegram_logo_2019.svg.png" width="20" style="vertical-align: middle; margin-right: 8px;" /> Telegram
+  <a href="https://t.me/08hoji00" style="text-decoration: none; color: black; font-weight: bold; font-size: 16px;">
+    Telegram
   </a> • 
-  <a href="https://wa.me/996555251506" style="text-decoration: none; color: #25D366; font-weight: bold; font-size: 16px;">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/6/6b/WhatsApp.svg" width="20" style="vertical-align: middle; margin-right: 8px;" /> WhatsApp
+  <a href="https://wa.me/996555251506" style="text-decoration: none; color: black; font-weight: bold; font-size: 16px;">
+    WhatsApp
   </a> • 
-  <a href="https://github.com/HojiakbarMirzakarimov" style="text-decoration: none; color: #24292f; font-weight: bold; font-size: 16px;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="20" style="vertical-align: middle; margin-right: 8px;" /> GitHub
+  <a href="https://github.com/HojiakbarMirzakarimov" style="text-decoration: none; color: black; font-weight: bold; font-size: 16px;">
+    GitHub
   </a>
 </p>
