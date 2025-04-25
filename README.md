@@ -17,26 +17,24 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="35" title="JavaScript" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="35" title="TypeScript" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="35" title="React" />
-<img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" width="35" title="Tailwind CSS" />
+  <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" width="35" title="Tailwind CSS" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" width="35" title="Sass" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg" width="35" title="Bootstrap" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="35" title="GitHub" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="35" title="Figma" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="35" title="VS Code" />
   <img src="https://img.icons8.com/color/48/000000/canva.png" width="35" title="Canva" />
-
 </p>
-
 
 ## 📬 Контакты
 
 <p>
-  <a href="https://t.me/08hoji00" style="display: inline-block; text-decoration: none; color: black; font-weight: bold; font-size: 16px;">
+  <a href="https://t.me/08hoji00" style="display: inline-block; text-decoration: none; color: white; background-color: #0088cc; padding: 10px 20px; border-radius: 5px; font-weight: bold; font-size: 16px; margin-right: 10px;">
     Telegram
-  </a> • 
-  <a href="https://wa.me/996555251506" style="display: inline-block; text-decoration: none; color: black; font-weight: bold; font-size: 16px;">
+  </a> 
+  <a href="https://wa.me/996555251506" style="display: inline-block; text-decoration: none; color: white; background-color: #25d366; padding: 10px 20px; border-radius: 5px; font-weight: bold; font-size: 16px;">
     WhatsApp
-  </a> • 
+  </a> 
   <a href="https://github.com/HojiakbarMirzakarimov" style="display: inline-block; text-decoration: none; color: black; font-weight: bold; font-size: 16px;">
     GitHub
   </a>
