@@ -28,17 +28,19 @@
 
 ## 📬 Контакты
 
-<p class="flex justify-center items-center gap-6">
-  <a href="https://t.me/08hoji00" style="text-decoration: none; display: inline-block; background-color: #0088cc; color: white; padding: 0.75rem 1.5rem; border-radius: 9999px; font-weight: 600; font-size: 1.125rem; transition: transform 0.2s; transform: scale(1);">
-    <img src="https://img.icons8.com/ios-filled/50/ffffff/telegram-app.png" width="20" style="display: inline-block; margin-right: 0.75rem;" />
+<p align="center">
+  <a href="https://t.me/08hoji00">
+    <img src="https://img.icons8.com/ios-filled/50/ffffff/telegram-app.png" width="20" />
     Telegram
   </a> 
-  <a href="https://wa.me/996555251506" style="text-decoration: none; display: inline-block; background-color: #25d366; color: white; padding: 0.75rem 1.5rem; border-radius: 9999px; font-weight: 600; font-size: 1.125rem; transition: transform 0.2s; transform: scale(1);">
-    <img src="https://img.icons8.com/ios-filled/50/ffffff/whatsapp.png" width="20" style="display: inline-block; margin-right: 0.75rem;" />
+  <span> | </span>
+  <a href="https://wa.me/996555251506">
+    <img src="https://img.icons8.com/ios-filled/50/ffffff/whatsapp.png" width="20" />
     WhatsApp
   </a> 
-  <a href="https://github.com/HojiakbarMirzakarimov" style="text-decoration: none; display: inline-block; background-color: #333; color: white; padding: 0.75rem 1.5rem; border-radius: 9999px; font-weight: 600; font-size: 1.125rem; transition: transform 0.2s; transform: scale(1);">
-    <img src="https://img.icons8.com/ios-filled/50/ffffff/github.png" width="20" style="display: inline-block; margin-right: 0.75rem;" />
+  <span> | </span>
+  <a href="https://github.com/HojiakbarMirzakarimov">
+    <img src="https://img.icons8.com/ios-filled/50/ffffff/github.png" width="20" />
     GitHub
   </a>
 </p>
