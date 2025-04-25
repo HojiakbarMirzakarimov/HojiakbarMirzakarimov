@@ -29,15 +29,15 @@
 ## 📬 Контакты
 
 <p class="flex justify-center items-center gap-6">
-  <a href="https://t.me/08hoji00" class="no-underline inline-block text-white bg-[#0088cc] px-6 py-3 rounded-full font-semibold text-lg transition-transform transform hover:scale-105 text-decoration-none">
+  <a href="https://t.me/08hoji00" class="no-underline inline-block text-white bg-[#0088cc] px-6 py-3 rounded-full font-semibold text-lg transition-transform transform hover:scale-105">
     <img src="https://img.icons8.com/ios-filled/50/ffffff/telegram-app.png" width="20" class="inline-block mr-3" />
     Telegram
   </a> 
-  <a href="https://wa.me/996555251506" class="inline-block text-white bg-[#25d366] px-6 py-3 rounded-full font-semibold text-lg transition-transform transform hover:scale-105 text-decoration-none">
+  <a href="https://wa.me/996555251506" class="no-underline inline-block text-white bg-[#25d366] px-6 py-3 rounded-full font-semibold text-lg transition-transform transform hover:scale-105">
     <img src="https://img.icons8.com/ios-filled/50/ffffff/whatsapp.png" width="20" class="inline-block mr-3" />
     WhatsApp
   </a> 
-  <a href="https://github.com/HojiakbarMirzakarimov" class="inline-block text-white bg-[#333] px-6 py-3 rounded-full font-semibold text-lg transition-transform transform hover:scale-105 text-decoration-none">
+  <a href="https://github.com/HojiakbarMirzakarimov" class="no-underline inline-block text-white bg-[#333] px-6 py-3 rounded-full font-semibold text-lg transition-transform transform hover:scale-105">
     <img src="https://img.icons8.com/ios-filled/50/ffffff/github.png" width="20" class="inline-block mr-3" />
     GitHub
   </a>
