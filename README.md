@@ -28,12 +28,12 @@
 
 ## 📬 Контакты
 
-<p flex justify-center items-center gap-20>
-  <a href="https://t.me/08hoji00" style="display: inline-block; text-decoration: none; color: white; background-color: #0088cc; padding: 12px 20px; border-radius: 5px; font-weight: bold; font-size: 16px; margin-right: 10px;">
+<p class="flex justify-center items-center gap-4">
+  <a href="https://t.me/08hoji00" style="display: inline-block; text-decoration: none; color: white; background-color: #0088cc; padding: 12px 20px; border-radius: 5px; font-weight: bold; font-size: 16px;">
     <img src="https://img.icons8.com/ios-filled/50/ffffff/telegram-app.png" width="20" style="vertical-align: middle; margin-right: 8px;" />
     Telegram
   </a> 
-  <a href="https://wa.me/996555251506" style="display: inline-block; text-decoration: none; color: white; background-color: #25d366; padding: 12px 20px; border-radius: 5px; font-weight: bold; font-size: 16px; margin-right: 10px;">
+  <a href="https://wa.me/996555251506" style="display: inline-block; text-decoration: none; color: white; background-color: #25d366; padding: 12px 20px; border-radius: 5px; font-weight: bold; font-size: 16px;">
     <img src="https://img.icons8.com/ios-filled/50/ffffff/whatsapp.png" width="20" style="vertical-align: middle; margin-right: 8px;" />
     WhatsApp
   </a> 
@@ -41,4 +41,4 @@
     <img src="https://img.icons8.com/ios-filled/50/ffffff/github.png" width="20" style="vertical-align: middle; margin-right: 8px;" />
     GitHub
   </a>
-</p> 
+</p>
