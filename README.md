@@ -43,9 +43,7 @@
 
 <p>
   <a href="https://www.instagram.com/08hoji00" target="_blank">
-    <button style="background-color: #E4405F; color: white; padding: 10px 20px; border-radius: 5px; font-size: 16px;">
-      Instagram
-    </button>
+   <img src="https://camo.githubusercontent.com/ca57d200135485938f285b2d452692062e4324dc5822c7381d7b5b7ef1669533/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f6d6573736167653d496e7374616772616d266c6f676f3d696e7374616772616d266c6162656c3d26636f6c6f723d453434303546266c6f676f436f6c6f723d7768697465266c6162656c436f6c6f723d267374796c653d666f722d7468652d6261646765" height="35" alt="instagram logo" data-canonical-src="https://img.shields.io/static/v1?message=Instagram&amp;logo=instagram&amp;label=&amp;color=E4405F&amp;logoColor=white&amp;labelColor=&amp;style=for-the-badge" style="max-width: 100%;">
   </a>
 </p>
 
