@@ -26,22 +26,3 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="35" title="VS Code" />
   <img src="https://img.icons8.com/color/48/000000/canva.png" width="35" title="Canva" />
 </p>
-
-## 📬 Контакты
-
-<p align="center">
-  <a href="https://t.me/08hoji00">
-    <img src="https://img.icons8.com/ios-filled/50/ffffff/telegram-app.png" width="20" />
-    Telegram
-  </a> 
-  <span> | </span>
-  <a href="https://wa.me/996555251506">
-    <img src="https://img.icons8.com/ios-filled/50/ffffff/whatsapp.png" width="20" />
-    WhatsApp
-  </a> 
-  <span> | </span>
-  <a href="https://github.com/HojiakbarMirzakarimov">
-    <img src="https://img.icons8.com/ios-filled/50/ffffff/github.png" width="20" />
-    GitHub
-  </a>
-</p>
