@@ -29,16 +29,16 @@
 ## 📬 Контакты
 
 <p class="flex justify-center items-center gap-6">
-  <a href="https://t.me/08hoji00" class="no-underline inline-block text-white bg-[#0088cc] px-6 py-3 rounded-full font-semibold text-lg transition-transform transform hover:scale-105">
-    <img src="https://img.icons8.com/ios-filled/50/ffffff/telegram-app.png" width="20" class="inline-block mr-3" />
+  <a href="https://t.me/08hoji00" style="text-decoration: none; display: inline-block; background-color: #0088cc; color: white; padding: 0.75rem 1.5rem; border-radius: 9999px; font-weight: 600; font-size: 1.125rem; transition: transform 0.2s; transform: scale(1);">
+    <img src="https://img.icons8.com/ios-filled/50/ffffff/telegram-app.png" width="20" style="display: inline-block; margin-right: 0.75rem;" />
     Telegram
   </a> 
-  <a href="https://wa.me/996555251506" class="no-underline inline-block text-white bg-[#25d366] px-6 py-3 rounded-full font-semibold text-lg transition-transform transform hover:scale-105">
-    <img src="https://img.icons8.com/ios-filled/50/ffffff/whatsapp.png" width="20" class="inline-block mr-3" />
+  <a href="https://wa.me/996555251506" style="text-decoration: none; display: inline-block; background-color: #25d366; color: white; padding: 0.75rem 1.5rem; border-radius: 9999px; font-weight: 600; font-size: 1.125rem; transition: transform 0.2s; transform: scale(1);">
+    <img src="https://img.icons8.com/ios-filled/50/ffffff/whatsapp.png" width="20" style="display: inline-block; margin-right: 0.75rem;" />
     WhatsApp
   </a> 
-  <a href="https://github.com/HojiakbarMirzakarimov" class="no-underline inline-block text-white bg-[#333] px-6 py-3 rounded-full font-semibold text-lg transition-transform transform hover:scale-105">
-    <img src="https://img.icons8.com/ios-filled/50/ffffff/github.png" width="20" class="inline-block mr-3" />
+  <a href="https://github.com/HojiakbarMirzakarimov" style="text-decoration: none; display: inline-block; background-color: #333; color: white; padding: 0.75rem 1.5rem; border-radius: 9999px; font-weight: 600; font-size: 1.125rem; transition: transform 0.2s; transform: scale(1);">
+    <img src="https://img.icons8.com/ios-filled/50/ffffff/github.png" width="20" style="display: inline-block; margin-right: 0.75rem;" />
     GitHub
   </a>
 </p>
