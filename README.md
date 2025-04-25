@@ -46,17 +46,10 @@
 </p>
 
 <p>
-  <a href="https://t.me/08hoji00" target="_blank">
-    <button style="background-color: #0088cc; color: white; padding: 10px 20px; border-radius: 5px; font-size: 16px;">
-      Telegram 2
-    </button>
-  </a>
-</p>
-
-<p>
   <a href="https://www.instagram.com/08hoji00" target="_blank">
     <button style="background-color: #E4405F; color: white; padding: 10px 20px; border-radius: 5px; font-size: 16px;">
       Instagram
     </button>
   </a>
 </p>
+
