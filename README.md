@@ -29,16 +29,16 @@
 ## 📬 Контакты
 
 <p class="flex justify-center items-center gap-4">
-  <a href="https://t.me/08hoji00" style="display: inline-block; text-decoration: none; color: white; background-color: #0088cc; padding: 12px 20px; border-radius: 5px; font-weight: bold; font-size: 16px;">
-    <img src="https://img.icons8.com/ios-filled/50/ffffff/telegram-app.png" width="20" style="vertical-align: middle; margin-right: 8px;" />
+  <a href="https://t.me/08hoji00" class="inline-block text-white bg-[#0088cc] px-5 py-3 rounded-lg font-bold text-lg">
+    <img src="https://img.icons8.com/ios-filled/50/ffffff/telegram-app.png" width="20" class="inline-block mr-2" />
     Telegram
   </a> 
-  <a href="https://wa.me/996555251506" style="display: inline-block; text-decoration: none; color: white; background-color: #25d366; padding: 12px 20px; border-radius: 5px; font-weight: bold; font-size: 16px;">
-    <img src="https://img.icons8.com/ios-filled/50/ffffff/whatsapp.png" width="20" style="vertical-align: middle; margin-right: 8px;" />
+  <a href="https://wa.me/996555251506" class="inline-block text-white bg-[#25d366] px-5 py-3 rounded-lg font-bold text-lg">
+    <img src="https://img.icons8.com/ios-filled/50/ffffff/whatsapp.png" width="20" class="inline-block mr-2" />
     WhatsApp
   </a> 
-  <a href="https://github.com/HojiakbarMirzakarimov" style="display: inline-block; text-decoration: none; color: white; background-color: #333; padding: 12px 20px; border-radius: 5px; font-weight: bold; font-size: 16px;">
-    <img src="https://img.icons8.com/ios-filled/50/ffffff/github.png" width="20" style="vertical-align: middle; margin-right: 8px;" />
+  <a href="https://github.com/HojiakbarMirzakarimov" class="inline-block text-white bg-[#333] px-5 py-3 rounded-lg font-bold text-lg">
+    <img src="https://img.icons8.com/ios-filled/50/ffffff/github.png" width="20" class="inline-block mr-2" />
     GitHub
   </a>
 </p>
