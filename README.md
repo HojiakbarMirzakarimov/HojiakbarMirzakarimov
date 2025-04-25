@@ -33,8 +33,3 @@
   <a href="https://wa.me/996555251506">WhatsApp</a> • 
   <a href="https://github.com/HojiakbarMirzakarimov">GitHub</a>
 </p>
-
----
-
-## 📊 Статистика GitHub
-
