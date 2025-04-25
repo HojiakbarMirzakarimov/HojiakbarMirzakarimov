@@ -5,6 +5,10 @@
 
 ---
 
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=HojiakbarMirzakarimov&show_icons=true&theme=radical" alt="GitHub Stats" />
+</p>
+
 ## 🚀 Технологии & Инструменты
 
 <p>
@@ -34,6 +38,3 @@
 
 ## 📊 Статистика GitHub
 
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=HojiakbarMirzakarimov&show_icons=true&theme=radical" alt="GitHub Stats" />
-</p>
