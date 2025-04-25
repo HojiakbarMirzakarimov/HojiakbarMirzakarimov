@@ -1,13 +1,13 @@
-# Привет, я Hojiakbar! 👋
+<h1 align="center">Привет, я Hojiakbar! 👋</h1>
 
-**Фронтенд-разработчик** — создаю быстрые, адаптивные и стильные интерфейсы.  
-React, Tailwind, Zustand, TypeScript и любовь к чистому коду.
+<p align="center"><b>Фронтенд-разработчик</b> — создаю быстрые, адаптивные и стильные интерфейсы.</p>
+<p align="center">React, Tailwind, Zustand, TypeScript и любовь к чистому коду.</p>
 
 ---
 
 ## 🚀 Технологии & Инструменты
 
-<p align="left">
+<p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="35" title="HTML5" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="35" title="CSS3" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="35" title="JavaScript" />
@@ -26,9 +26,16 @@ React, Tailwind, Zustand, TypeScript и любовь к чистому коду.
 
 ## 📬 Контакты
 
-[Telegram](https://t.me/08hoji00) • [WhatsApp](https://wa.me/996555251506) • [GitHub](https://github.com/HojiakbarMirzakarimov)
+<p align="center">
+  <a href="https://t.me/08hoji00">Telegram</a> • 
+  <a href="https://wa.me/996555251506">WhatsApp</a> • 
+  <a href="https://github.com/HojiakbarMirzakarimov">GitHub</a>
+</p>
 
 ---
 
-![Hojiakbar's GitHub stats](https://github-readme-stats.vercel.app/api?username=HojiakbarMirzakarimov&show_icons=true&theme=radical)
+## 📊 Статистика
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=HojiakbarMirzakarimov&show_icons=true&theme=radical" alt="GitHub Stats" />
+</p>
