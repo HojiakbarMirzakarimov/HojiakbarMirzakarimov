@@ -24,6 +24,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="35" title="Figma" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="35" title="VS Code" />
   <img src="https://img.icons8.com/color/48/000000/canva.png" width="35" title="Canva" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vite/vite-original.svg" width="35" title="Vite" />
 </p>
 
 ## 📬 Контакты
