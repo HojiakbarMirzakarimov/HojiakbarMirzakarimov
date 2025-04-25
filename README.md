@@ -29,13 +29,13 @@
 ## 📬 Контакты
 
 <p>
-  <a href="https://t.me/08hoji00" style="text-decoration: none !important; color: black; font-weight: bold; font-size: 16px;">
+  <a href="https://t.me/08hoji00" style="display: inline-block; text-decoration: none; color: black; font-weight: bold; font-size: 16px;">
     Telegram
   </a> • 
-  <a href="https://wa.me/996555251506" style="text-decoration: none !important; color: black; font-weight: bold; font-size: 16px;">
+  <a href="https://wa.me/996555251506" style="display: inline-block; text-decoration: none; color: black; font-weight: bold; font-size: 16px;">
     WhatsApp
   </a> • 
-  <a href="https://github.com/HojiakbarMirzakarimov" style="text-decoration: none !important; color: black; font-weight: bold; font-size: 16px;">
+  <a href="https://github.com/HojiakbarMirzakarimov" style="display: inline-block; text-decoration: none; color: black; font-weight: bold; font-size: 16px;">
     GitHub
   </a>
 </p>
