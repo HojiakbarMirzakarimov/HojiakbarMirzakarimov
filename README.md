@@ -9,7 +9,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=HojiakbarMirzakarimov&show_icons=true&theme=radical" alt="GitHub Stats" />
 </p>
 
-## 🚀 Технологии & Инструменты
+## 🚀 Технологии & Инструмент
 
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="35" title="HTML5" />
