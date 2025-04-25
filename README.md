@@ -1,13 +1,13 @@
-<h1 align="center">Привет, я Hojiakbar! 👋</h1>
+<h1>Привет, я Hojiakbar! 👋</h1>
 
-<p align="center"><b>Фронтенд-разработчик</b> — создаю быстрые, адаптивные и стильные интерфейсы.</p>
-<p align="center">React, Tailwind, Zustand, TypeScript и любовь к чистому коду.</p>
+<p><b>Фронтенд-разработчик</b> — создаю быстрые, адаптивные и стильные интерфейсы.</p>
+<p>React, Tailwind, Zustand, TypeScript и любовь к чистому коду.</p>
 
 ---
 
 ## 🚀 Технологии & Инструменты
 
-<p align="center">
+<p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="35" title="HTML5" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="35" title="CSS3" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="35" title="JavaScript" />
@@ -22,11 +22,9 @@
   <img src="https://cdn.worldvectorlogo.com/logos/canva-1.svg" width="35" title="Canva" />
 </p>
 
----
-
 ## 📬 Контакты
 
-<p align="center">
+<p>
   <a href="https://t.me/08hoji00">Telegram</a> • 
   <a href="https://wa.me/996555251506">WhatsApp</a> • 
   <a href="https://github.com/HojiakbarMirzakarimov">GitHub</a>
@@ -34,8 +32,8 @@
 
 ---
 
-## 📊 Статистика
+## 📊 Статистика GitHub
 
-<p align="center">
+<p>
   <img src="https://github-readme-stats.vercel.app/api?username=HojiakbarMirzakarimov&show_icons=true&theme=radical" alt="GitHub Stats" />
 </p>
