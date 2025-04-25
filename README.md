@@ -41,4 +41,4 @@
     <img src="https://img.icons8.com/ios-filled/50/ffffff/github.png" width="20" style="vertical-align: middle; margin-right: 8px;" />
     GitHub
   </a>
-</p>
+</p> 
